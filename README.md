@@ -73,3 +73,4 @@ Welcome to create pull requests or issues to this project. I am really happy to 
 * wenxuanjun - OS Memory Manager Development
 * Minsecrus - Memory usage optimization
 * CLimber-Rong - Software Developer
+* suhuajun-github - Fix several bugs in the AHCI driver

@@ -73,3 +73,4 @@
 * wenxuanjun - OS 内存管理开发
 * Minsecrus - OS 内存统计算法优化
 * CLimber-Rong - 软件开发
+* suhuajun-github - 修复AHCI驱动的BUG
